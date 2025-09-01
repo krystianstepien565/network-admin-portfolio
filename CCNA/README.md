@@ -7,4 +7,4 @@ Zawiera:
 - udane testy ping pomiędzy urządzeniami.  
 
 ## Plik
-- [01_first_network](CCNA/01_first_network)
+- [01_first_network](01_first_network)
