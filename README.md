@@ -8,19 +8,19 @@ To jest moje portfolio jako przyszłego administratora sieci czy helpdeska. Zawi
 ## 📂 Sekcje portfolio
 
 ### 1. CCNA
--Konfiguracja sieci LAN/WAN
--Tworzenie i zarządzanie VLANami
--Routing statyczny i dynamiczny
--Laboratoria praktyczne w Packet Tracer
--Projekty dokumentowane z opisem konfiguracji i screenami
--Uwaga: Portfolio jest w trakcie rozbudowy – obecnie dostępne są 2 projekty w sekcji CCNA.
+- Konfiguracja sieci LAN/WAN
+- Tworzenie i zarządzanie VLANami
+- Routing statyczny i dynamiczny
+- Laboratoria praktyczne w Packet Tracer
+- Projekty dokumentowane z opisem konfiguracji i screenami
+- Uwaga: Portfolio jest w trakcie rozbudowy – obecnie dostępne są 2 projekty w sekcji CCNA.
 
 ### 2. Linux
--Sekcja w przygotowaniu – wkrótce dodam projekty i laboratoria z zarządzania systemami Linux i usługami sieciowymi.
+- Sekcja w przygotowaniu – wkrótce dodam projekty i laboratoria z zarządzania systemami Linux i usługami sieciowymi.
 
 
 ### 3. Cybersecurity
--Sekcja w przygotowaniu – wkrótce dodam projekty związane z podstawami bezpieczeństwa sieci i testami w środowisku labowym.
+- Sekcja w przygotowaniu – wkrótce dodam projekty związane z podstawami bezpieczeństwa sieci i testami w środowisku labowym.
 
 ---
 
