@@ -1,7 +1,7 @@
 # Network Admin Portfolio
 
 Witaj! 👋  
-To jest moje portfolio jako przyszłego administratora sieci. Zawiera projekty i laboratoria z zakresu sieci komputerowych, systemów Linux oraz podstaw cyberbezpieczeństwa.
+To jest moje portfolio jako przyszłego administratora sieci czy helpdeska. Zawiera projekty i laboratoria z zakresu sieci komputerowych, systemów Linux oraz podstaw cyberbezpieczeństwa.
 
 ---
 
@@ -30,9 +30,6 @@ To jest moje portfolio jako przyszłego administratora sieci. Zawiera projekty i
 
 network-admin-portfolio/
 ├── CCNA/
-│ ├── VLANs/
-│ ├── Routing/
-│ └── Labs/
 ├── Linux/
 └── Cybersecurity/
 
