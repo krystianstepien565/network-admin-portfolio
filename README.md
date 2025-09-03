@@ -1,4 +1,4 @@
-# Network Admin Portfolio
+# Junior It Portfolio
 
 Witaj! 👋  
 To jest moje portfolio jako przyszłego administratora sieci czy helpdeska. Zawiera projekty i laboratoria z zakresu sieci komputerowych, systemów Linux oraz podstaw cyberbezpieczeństwa.
